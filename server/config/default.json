@@ -1,0 +1,5 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://kateryna:1q2w3e4r@cluster0.jipmp.mongodb.net/сhat-app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
